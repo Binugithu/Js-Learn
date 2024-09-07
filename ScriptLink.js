@@ -1,3 +1,4 @@
 let js = "amazing";
 if(js ==="amazing") alert("javascript is fun!");
 console.log(40+20+3);
+console.log(40+20+3);
